@@ -9,6 +9,7 @@ What did you do particularly well in developing this documentation?
 When developing this document I thought I did a very good job of making sure that the clients were getting the best possible results while still adhering to their requirements that they had given us at the start of the project. It was very vital that we gave the client good insight on the postives and negatives that any potential solution or feature could bring.
 
 What about the process of working through a design document did you find helpful when developing the code?
+
 Using a design document was a great way to track my progress and update the client on the devleopment of their software. It is a very helpful thing because it breaks down the ideas that not everyone who has a tech background will understand so it makes it easier for common people to understand and help with these specifications. It is just a great way to measure your progress and how effeciently the project is going.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
